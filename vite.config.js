@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/budget-planner-pro-react/',  // <--- CHANGED THIS
+  base: '/budget-planner-pro-react/',
 })
